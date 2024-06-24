@@ -1,0 +1,14 @@
+C:\Users\9910015305080\source\Ndalama - Other\Day1\bin\Debug\Day1.exe.config
+C:\Users\9910015305080\source\Ndalama - Other\Day1\bin\Debug\Day1.exe
+C:\Users\9910015305080\source\Ndalama - Other\Day1\bin\Debug\Day1.pdb
+C:\Users\9910015305080\source\Ndalama - Other\Day1\obj\Debug\Day1.csproj.AssemblyReference.cache
+C:\Users\9910015305080\source\Ndalama - Other\Day1\obj\Debug\Day1.csproj.CoreCompileInputs.cache
+C:\Users\9910015305080\source\Ndalama - Other\Day1\obj\Debug\Day1.exe
+C:\Users\9910015305080\source\Ndalama - Other\Day1\obj\Debug\Day1.pdb
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part1\bin\Debug\Day1.exe.config
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part1\bin\Debug\Day1.exe
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part1\bin\Debug\Day1.pdb
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part1\obj\Debug\Day1.csproj.AssemblyReference.cache
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part1\obj\Debug\Day1.csproj.CoreCompileInputs.cache
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part1\obj\Debug\Day1.exe
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part1\obj\Debug\Day1.pdb

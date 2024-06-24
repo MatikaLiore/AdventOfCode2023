@@ -1,0 +1,7 @@
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part2\Day1-Part2\bin\Debug\Day1-Part2.exe.config
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part2\Day1-Part2\bin\Debug\Day1-Part2.exe
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part2\Day1-Part2\bin\Debug\Day1-Part2.pdb
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part2\Day1-Part2\obj\Debug\Day1-Part2.csproj.AssemblyReference.cache
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part2\Day1-Part2\obj\Debug\Day1-Part2.csproj.CoreCompileInputs.cache
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part2\Day1-Part2\obj\Debug\Day1-Part2.exe
+C:\Users\9910015305080\source\Ndalama - Other\Advent of Code\Day1\Part2\Day1-Part2\obj\Debug\Day1-Part2.pdb

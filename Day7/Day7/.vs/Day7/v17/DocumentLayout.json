@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\9910015305080\\source\\Ndalama - Other\\Advent of Code\\Day7\\Day7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE15C8BB-9666-432D-A8EE-975F329714ED}|Day7.csproj|c:\\users\\9910015305080\\source\\ndalama - other\\advent of code\\day7\\day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE15C8BB-9666-432D-A8EE-975F329714ED}|Day7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\9910015305080\\source\\Ndalama - Other\\Advent of Code\\Day7\\Day7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\9910015305080\\source\\Ndalama - Other\\Advent of Code\\Day7\\Day7\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAIMAAAAAAAAAAAA4wJAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:45:31.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
